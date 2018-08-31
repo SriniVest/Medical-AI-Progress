@@ -1,4 +1,4 @@
 # Medical-AI-Progress
-Repository collecting the current state-of-the-art use Machine Learning for both radiology and pathology images, and medical text reports.
+Repository collecting the current state-of-the-art Machine Learning results for radiology and pathology images, and medical text reports, on Gold Standard datasets.
 
-Inspired by Sebastian Ruder's lovely repository tracking SOTA NLP work: https://github.com/sebastianruder/NLP-progress
+Inspired by Sebastian Ruder's lovely repository tracking state-of-the-art NLP work: https://github.com/sebastianruder/NLP-progress
